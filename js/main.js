@@ -23,3 +23,4 @@ console.log(getRandomInt(10, 1));
 function commentLength (stroke, maxLength) {
     return stroke.length <= maxLength;
 }
+
